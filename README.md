@@ -79,90 +79,29 @@ Data Structures, Algorithms and continuous problem-solving practice.
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,tailwind,django,fastapi,mysql,postgres,mongodb,supabase,numpy,pandas,sklearn,openai,langchain,huggingface,chromadb,git,github,vscode,postman,docker,vercel,netlify,render,firebase,streamlit,jupyter" />
+</p>
+## 🛠️ Tech Stack
+
+<p align="center">
 
 <!-- 10 -->
-<img src="https://cdn.simpleicons.org/python" width="48" height="48" alt="Python"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/openjdk" width="48" height="48" alt="Java"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" width="48" height="48" alt="JavaScript"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/typescript" width="48" height="48" alt="TypeScript"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/html5" width="48" height="48" alt="HTML5"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/css3" width="48" height="48" alt="CSS3"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/react" width="48" height="48" alt="React"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs" width="48" height="48" alt="Next.js"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss" width="48" height="48" alt="Tailwind CSS"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/django" width="48" height="48" alt="Django"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,tailwind,django" />
 
-</p>
-
-<p align="center">
+<br><br>
 
 <!-- 9 -->
-<img src="https://cdn.simpleicons.org/django" width="48" height="48" alt="Django REST Framework"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi" width="48" height="48" alt="FastAPI"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/mysql" width="48" height="48" alt="MySQL"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql" width="48" height="48" alt="PostgreSQL"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/mongodb" width="48" height="48" alt="MongoDB"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/supabase" width="48" height="48" alt="Supabase"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/numpy" width="48" height="48" alt="NumPy"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" alt="Scikit-learn"/>
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,postgres,mongodb,supabase,numpy,pandas,sklearn,openai" />
 
-</p>
-
-<p align="center">
+<br><br>
 
 <!-- 8 -->
-<img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/openai-icon.png" width="48" height="48" alt="OpenAI"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="Hugging Face"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/chroma" width="48" height="48" alt="ChromaDB"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/git" width="48" height="48" alt="Git"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/github" width="48" height="48" alt="GitHub"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode" width="48" height="48" alt="VS Code"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/postman" width="48" height="48" alt="Postman"/>
+<img src="https://skillicons.dev/icons?i=langchain,huggingface,chromadb,git,github,vscode,postman,docker" />
 
-</p>
-
-<p align="center">
+<br><br>
 
 <!-- 7 -->
-<img src="https://cdn.simpleicons.org/docker" width="48" height="48" alt="Docker"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/vercel" width="48" height="48" alt="Vercel"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/netlify" width="48" height="48" alt="Netlify"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/render" width="48" height="48" alt="Render"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/firebase" width="48" height="48" alt="Firebase"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/streamlit" width="48" height="48" alt="Streamlit"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/jupyter" width="48" height="48" alt="Jupyter"/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render,firebase,streamlit,jupyter" />
 
 </p>
 
