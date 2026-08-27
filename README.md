@@ -85,25 +85,92 @@ Data Structures, Algorithms and continuous problem-solving practice.
 
 <p align="center">
 
-<!-- 10 -->
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,tailwind,django" />
+<!-- Row 1 — 10 -->
+<img src="https://cdn.simpleicons.org/python" width="50" height="50" alt="Python"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openjdk" width="50" height="50" alt="Java"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript" width="50" height="50" alt="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript" width="50" height="50" alt="TypeScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5" width="50" height="50" alt="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css" width="50" height="50" alt="CSS3"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react" width="50" height="50" alt="React"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs" width="50" height="50" alt="Next.js"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss" width="50" height="50" alt="Tailwind CSS"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/django" width="50" height="50" alt="Django"/>
 
 <br><br>
 
-<!-- 9 -->
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,postgres,mongodb,supabase,numpy,pandas,sklearn,openai" />
+<!-- Row 2 — 9 -->
+<img src="https://cdn.simpleicons.org/fastapi" width="50" height="50" alt="FastAPI"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql" width="50" height="50" alt="MySQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql" width="50" height="50" alt="PostgreSQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb" width="50" height="50" alt="MongoDB"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/supabase" width="50" height="50" alt="Supabase"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/numpy" width="50" height="50" alt="NumPy"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas" width="50" height="50" alt="Pandas"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn" width="50" height="50" alt="Scikit-learn"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai" width="50" height="50" alt="OpenAI"/>
 
 <br><br>
 
-<!-- 8 -->
-<img src="https://skillicons.dev/icons?i=langchain,huggingface,chromadb,git,github,vscode,postman,docker" />
+<!-- Row 3 — 8 -->
+<img src="https://cdn.simpleicons.org/langchain" width="50" height="50" alt="LangChain"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface" width="50" height="50" alt="Hugging Face"/>
+&nbsp;&nbsp;
+
+<!-- Chroma — official project link -->
+<a href="https://github.com/chroma-core/chroma">
+  <img src="https://avatars.githubusercontent.com/u/105779328?s=200&v=4" width="50" height="50" alt="ChromaDB"/>
+</a>
+&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/git" width="50" height="50" alt="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github" width="50" height="50" alt="GitHub"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/visualstudiocode" width="50" height="50" alt="VS Code"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postman" width="50" height="50" alt="Postman"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker" width="50" height="50" alt="Docker"/>
 
 <br><br>
 
-<!-- 7 -->
-<img src="https://skillicons.dev/icons?i=vercel,netlify,render,firebase,streamlit,jupyter" />
+<!-- Row 4 — 7 -->
+<img src="https://cdn.simpleicons.org/vercel" width="50" height="50" alt="Vercel"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/netlify" width="50" height="50" alt="Netlify"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/render" width="50" height="50" alt="Render"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/firebase" width="50" height="50" alt="Firebase"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/streamlit" width="50" height="50" alt="Streamlit"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jupyter" width="50" height="50" alt="Jupyter"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlecolab" width="50" height="50" alt="Google Colab"/>
 
 </p>
+
+---
 
 ### 🤖 ArenaOS AI
 
