@@ -28,11 +28,11 @@ I’m a **BCA ’27 student and Software Developer** passionate about building p
 
 I enjoy turning real-world problems into working products — from **AI-powered platforms and machine learning applications to full-stack web experiences**.
 
-- 🤖 Exploring AI/ML, Generative AI & AI Agents
-- 🌐 Building full-stack applications with React & Django
-- 🐍 Developing backend systems and REST APIs with Python
-- 🧠 Strengthening Data Structures & Algorithms
-- 🚀 Turning ideas into practical, user-focused products
+* 🤖 Exploring AI/ML, Generative AI & AI Agents
+* 🌐 Building full-stack applications with React & Django
+* 🐍 Developing backend systems and REST APIs with Python
+* 🧠 Strengthening Data Structures & Algorithms
+* 🚀 Turning ideas into practical, user-focused products
 
 ---
 
@@ -81,93 +81,105 @@ Data Structures, Algorithms and continuous problem-solving practice.
 <p align="center">
 
 <!-- Row 1 — 10 -->
-<img src="https://cdn.simpleicons.org/python" width="50" height="50" alt="Python"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openjdk" width="50" height="50" alt="Java"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" width="50" height="50" alt="JavaScript"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript" width="50" height="50" alt="TypeScript"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/html5" width="50" height="50" alt="HTML5"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css" width="50" height="50" alt="CSS3"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react" width="50" height="50" alt="React"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs" width="50" height="50" alt="Next.js"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss" width="50" height="50" alt="Tailwind CSS"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/django" width="50" height="50" alt="Django"/>
 
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django"/>
+
+</p>
+
+<p align="center">
 
 <!-- Row 2 — 9 -->
-<img src="https://cdn.simpleicons.org/fastapi" width="50" height="50" alt="FastAPI"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql" width="50" height="50" alt="MySQL"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql" width="50" height="50" alt="PostgreSQL"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mongodb" width="50" height="50" alt="MongoDB"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/supabase" width="50" height="50" alt="Supabase"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/numpy" width="50" height="50" alt="NumPy"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas" width="50" height="50" alt="Pandas"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn" width="50" height="50" alt="Scikit-learn"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openai" width="50" height="50" alt="OpenAI"/>
 
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="48" height="48" alt="OpenAI"/>
+
+</p>
+
+<p align="center">
 
 <!-- Row 3 — 8 -->
-<img src="https://cdn.simpleicons.org/langchain" width="50" height="50" alt="LangChain"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface" width="50" height="50" alt="Hugging Face"/>
-&nbsp;&nbsp;
 
-<!-- Chroma — official project link -->
-<a href="https://github.com/chroma-core/chroma">
-  <img src="https://avatars.githubusercontent.com/u/105779328?s=200&v=4" width="50" height="50" alt="ChromaDB"/>
-</a>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="48" height="48" alt="LangChain"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="48" height="48" alt="Hugging Face"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/chroma/3A3A3A" width="48" height="48" alt="ChromaDB"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
 
-<img src="https://cdn.simpleicons.org/git" width="50" height="50" alt="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github" width="50" height="50" alt="GitHub"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode" width="50" height="50" alt="VS Code"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postman" width="50" height="50" alt="Postman"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker" width="50" height="50" alt="Docker"/>
+</p>
 
-<br><br>
+<p align="center">
 
 <!-- Row 4 — 7 -->
-<img src="https://cdn.simpleicons.org/vercel" width="50" height="50" alt="Vercel"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/netlify" width="50" height="50" alt="Netlify"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render" width="50" height="50" alt="Render"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/firebase" width="50" height="50" alt="Firebase"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/streamlit" width="50" height="50" alt="Streamlit"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jupyter" width="50" height="50" alt="Jupyter"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlecolab" width="50" height="50" alt="Google Colab"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48" height="48" alt="Netlify"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud"/>
 
 </p>
 
 ---
 
-### 🤖 ArenaOS AI
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏟️ ArenaOS AI
 
 AI-powered operating system for smart stadiums, connecting multiple stadium experiences through an intelligent shared platform.
 
@@ -226,38 +238,6 @@ Safety-focused navigation platform designed to provide smarter route experiences
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📧 AI Phishing Email Detection
-
-Machine learning and NLP-based application for detecting potentially malicious phishing emails.
-
-**Tech:** Python • ML • NLP • Scikit-learn
-
-<a href="https://github.com/Anshika1772/AI-Phishing-Email-Detection">
-  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📰 AI Fake News Detection
-
-Machine learning-based text classification application for detecting potentially misleading or fake news content.
-
-**Tech:** Python • Pandas • Scikit-learn • NLP
-
-<a href="https://github.com/Anshika1772/AI-Fake-News-Detection">
-  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
 </table>
 
 ---
@@ -268,10 +248,12 @@ Machine learning-based text classification application for detecting potentially
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Anshika1772&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="165"
+    alt="Anshika's GitHub Stats"
   />
   <img 
     src="https://streak-stats.demolab.com?user=Anshika1772&theme=tokyonight&hide_border=true"
     height="165"
+    alt="Anshika's GitHub Streak"
   />
 </p>
 
@@ -279,6 +261,7 @@ Machine learning-based text classification application for detecting potentially
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika1772&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="150"
+    alt="Top Languages"
   />
 </p>
 
@@ -319,5 +302,4 @@ Machine learning-based text classification application for detecting potentially
 
 <p align="center">
   <i>Build • Learn • Create.</i>
-</p>
 </p>
