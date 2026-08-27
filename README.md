@@ -70,6 +70,18 @@ A safety-focused platform built to provide smarter and more useful experiences f
 Currently exploring and contributing to open-source projects while continuously improving my development skills.
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshika1772&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika1772&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika1772&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
 
 ## 🤝 Let's Connect
 
