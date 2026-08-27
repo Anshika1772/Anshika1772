@@ -98,7 +98,30 @@ Currently exploring and contributing to open-source projects while continuously 
 
 ## 🤝 Let's Connect
 
-[GitHub](https://github.com/Anshika1772) • [LinkedIn](https://www.linkedin.com/) • [Portfolio](https://github.com/Anshika1772)
+<p align="center">
+  <a href="https://github.com/Anshika1772">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Always open to learning, building, and collaborating.</i> 🚀
+</p>
+
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b>
+</p>
+
+<p align="center">
+  <i>Build • Learn • Contribute • Repeat</i>
+</p>
+
 
 ---
 
