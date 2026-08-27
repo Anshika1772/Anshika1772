@@ -20,17 +20,30 @@ I’m currently focused on strengthening my skills in **AI/ML, Full Stack Develo
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-`Python` `Java` `JavaScript` `HTML` `CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 
-`Django` `FastAPI` `React` `NumPy` `Pandas` `Scikit-learn`
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react" />
+</p>
 
-**Tools & Platforms**
+### Data & AI
 
-`Git` `GitHub` `VS Code` `Jupyter` `Supabase`
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,supabase" />
+</p>
+
 
 ---
 
