@@ -80,7 +80,7 @@ Data Structures, Algorithms and continuous problem-solving practice.
 
 <p align="center">
 
-<!-- Row 1 — 10 -->
+<!-- 10 -->
 <img src="https://cdn.simpleicons.org/python" width="48" height="48" alt="Python"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/openjdk" width="48" height="48" alt="Java"/>
@@ -105,8 +105,8 @@ Data Structures, Algorithms and continuous problem-solving practice.
 
 <p align="center">
 
-<!-- Row 2 — 9 -->
-<img src="https://cdn.simpleicons.org/djangorestframework" width="48" height="48" alt="Django REST Framework"/>
+<!-- 9 -->
+<img src="https://cdn.simpleicons.org/django" width="48" height="48" alt="Django REST Framework"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/fastapi" width="48" height="48" alt="FastAPI"/>
 &nbsp;
@@ -128,8 +128,8 @@ Data Structures, Algorithms and continuous problem-solving practice.
 
 <p align="center">
 
-<!-- Row 3 — 8 -->
-<img src="https://cdn.simpleicons.org/openai" width="48" height="48" alt="OpenAI"/>
+<!-- 8 -->
+<img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/openai-icon.png" width="48" height="48" alt="OpenAI"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain"/>
 &nbsp;
@@ -149,7 +149,7 @@ Data Structures, Algorithms and continuous problem-solving practice.
 
 <p align="center">
 
-<!-- Row 4 — 7 -->
+<!-- 7 -->
 <img src="https://cdn.simpleicons.org/docker" width="48" height="48" alt="Docker"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/vercel" width="48" height="48" alt="Vercel"/>
@@ -165,14 +165,6 @@ Data Structures, Algorithms and continuous problem-solving practice.
 <img src="https://cdn.simpleicons.org/jupyter" width="48" height="48" alt="Jupyter"/>
 
 </p>
----
-
-## ⭐ Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
 
 ### 🤖 ArenaOS AI
 
