@@ -78,9 +78,17 @@ Data Structures, Algorithms and continuous problem-solving practice.
 
 ## 🛠️ Tech Stack
 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman,docker,vercel,netlify,firebase,streamlit" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,openai,langchain,huggingface" />
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
@@ -88,15 +96,9 @@ Data Structures, Algorithms and continuous problem-solving practice.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,fastapi" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,openai,langchain,huggingface" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman,docker,vercel,netlify,firebase,streamlit" />
-</p>
+
+
+
 
 ---
 
