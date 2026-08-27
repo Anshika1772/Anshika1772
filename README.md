@@ -130,23 +130,42 @@ Data Structures, Algorithms and continuous problem-solving practice.
 
 <p align="center">
 
-<!-- Row 3 — 8 -->
+<!-- Row 3 — AI / Developer Tools -->
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="48" height="48" alt="LangChain"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="48" height="48" alt="Hugging Face"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/chroma/3A3A3A" width="48" height="48" alt="ChromaDB"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+<a href="https://www.langchain.com/">
+  <img src="https://camo.githubusercontent.com/4d42a75760f5efa5823597fad0cc5576d653574825abb11d99149fbecdef4dc7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c616e67636861696e2f6c616e67636861696e2d6f726967696e616c2e737667" width="50" height="50" alt="LangChain"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://huggingface.co/">
+  <img src="https://camo.githubusercontent.com/17531966a05da627e25137234641f5edcf98530853d16a146b9ce2cb7b56a62c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68756767696e67666163652f68756767696e67666163652d6f726967696e616c2e737667" width="50" height="50" alt="Hugging Face"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.trychroma.com/">
+  <img src="https://camo.githubusercontent.com/eda2b94d7881b1bd88e9889a0ce6aff504e6d231a6a3d735dbe0a09e0bea6226/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6368726f6d612f334133413341" width="50" height="50" alt="ChromaDB"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://openai.com/">
+  <img src="https://camo.githubusercontent.com/60a32b542379f790035dd4add65b0c2171fbf82daa4eda068bed8b5c4325f9ba/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6f70656e61692f6f70656e61692d6f726967696e616c2e737667" width="50" height="50" alt="OpenAI"/>
+</a>
+&nbsp;&nbsp;
+
+<img src="https://camo.githubusercontent.com/a1e4fc9b67772cd3a37e56ec6ea1b0bcf3cab6d8262d2ca621875fe09e1ea0a7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" width="50" height="50" alt="Git"/>
+&nbsp;&nbsp;
+
+<img src="https://camo.githubusercontent.com/ea73699d9c71f9036ad258298a148d32c607cfee9deed4ffb6d3d3998a8077ca/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" width="50" height="50" alt="GitHub"/>
+&nbsp;&nbsp;
+
+<img src="https://camo.githubusercontent.com/b9c9b3f4d44cb0ef9fdc316cad96eb91f3e109767590d9d3fbb5eb9fd42a9870/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" width="50" height="50" alt="VS Code"/>
+&nbsp;&nbsp;
+
+<img src="https://camo.githubusercontent.com/dc0e96fb2ca77a603e76832bb1e7d0b08d00347819961c95c69c0d2cf53aa66e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f73746d616e2f706f73746d616e2d6f726967696e616c2e737667" width="50" height="50" alt="Postman"/>
+&nbsp;&nbsp;
+
+<img src="https://camo.githubusercontent.com/dc6608a7775ed066d45dce22e3810c4d97318c32de9098569b0a3c8d813f5ef5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667" width="50" height="50" alt="Docker"/>
 
 </p>
 
