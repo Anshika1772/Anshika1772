@@ -75,11 +75,11 @@ Data Structures, Algorithms and continuous problem-solving practice.
 </table>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <p align="center">
 
+<!-- Languages & Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
@@ -91,7 +91,10 @@ Data Structures, Algorithms and continuous problem-solving practice.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-&nbsp;&nbsp;
+
+<br><br>
+
+<!-- Frontend Frameworks -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
@@ -99,11 +102,12 @@ Data Structures, Algorithms and continuous problem-solving practice.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/>
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/>
-&nbsp;&nbsp;
+<!-- Databases & Data Science -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
@@ -120,35 +124,40 @@ Data Structures, Algorithms and continuous problem-solving practice.
 
 <br><br>
 
-<img src="https://cdn.simpleicons.org/openai" width="50" height="50" alt="OpenAI"/>
+<!-- AI & Generative AI -->
+<img src="https://cdn.simpleicons.org/openai/000000" width="50" height="50" alt="OpenAI"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/langchain" width="50" height="50" alt="LangChain"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="50" height="50" alt="LangChain"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface" width="50" height="50" alt="Hugging Face"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="50" height="50" alt="Hugging Face"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/chroma" width="50" height="50" alt="ChromaDB"/>
-&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/chroma/3A3A3A" width="50" height="50" alt="ChromaDB"/>
+
+<br><br>
+
+<!-- Development Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postman" width="50" height="50" alt="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
 
 <br><br>
 
+<!-- Deployment & Cloud -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50" height="50" alt="Vercel"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/netlify" width="50" height="50" alt="Netlify"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="50" height="50" alt="Netlify"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render" width="50" height="50" alt="Render"/>
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" alt="Render"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/streamlit" width="50" height="50" alt="Streamlit"/>
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" height="50" alt="Streamlit"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
 &nbsp;&nbsp;
