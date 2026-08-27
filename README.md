@@ -79,11 +79,6 @@ Data Structures, Algorithms and continuous problem-solving practice.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,tailwind,django,fastapi,mysql,postgres,mongodb,supabase,numpy,pandas,sklearn,openai,langchain,huggingface,chromadb,git,github,vscode,postman,docker,vercel,netlify,render,firebase,streamlit,jupyter" />
-</p>
-## 🛠️ Tech Stack
-
-<p align="center">
 
 <!-- Row 1 — 10 -->
 <img src="https://cdn.simpleicons.org/python" width="50" height="50" alt="Python"/>
