@@ -78,38 +78,22 @@ Data Structures, Algorithms and continuous problem-solving practice.
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
 </p>
-
-### 🎨 Frontend
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
-
-### ⚙️ Backend
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,fastapi" />
 </p>
-
-### 🗄️ Databases & Backend Services
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
 </p>
-
-### 🤖 AI / ML & Data
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,openai,langchain,huggingface" />
 </p>
-
-### 🔧 Tools & Platforms
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman,docker,vercel,netlify,firebase,streamlit" />
 </p>
