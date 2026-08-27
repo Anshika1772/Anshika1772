@@ -90,7 +90,7 @@ Data Structures, Algorithms and continuous problem-solving practice.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>
-<img src="https://cdn.simpleicons.org/openai/000000" width="40" height="40" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI"/>
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/>
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" height="28" alt="ChromaDB"/>
@@ -113,6 +113,8 @@ Data Structures, Algorithms and continuous problem-solving practice.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
 </p>
+
+----
 
 ## 🚀 Featured Projects
 
