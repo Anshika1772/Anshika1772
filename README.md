@@ -189,12 +189,13 @@ Safety-focused navigation platform designed to provide smarter route experiences
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api?username=Anshika1772&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="165"
     alt="Anshika's GitHub Stats"
   />
-  <img 
+  &nbsp;&nbsp;
+  <img
     src="https://streak-stats.demolab.com?user=Anshika1772&theme=tokyonight&hide_border=true"
     height="165"
     alt="Anshika's GitHub Streak"
@@ -202,7 +203,7 @@ Safety-focused navigation platform designed to provide smarter route experiences
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika1772&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="150"
     alt="Top Languages"
@@ -214,12 +215,19 @@ Safety-focused navigation platform designed to provide smarter route experiences
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-0F172A?style=for-the-badge"/>
+  <img
+    src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge"
+    alt="Machine Learning"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge"
+    alt="Data Structures and Algorithms"
+  />
+</p>
+
+<p align="center">
+  <i>Currently focused on strengthening Machine Learning concepts and Data Structures & Algorithms.</i>
 </p>
 
 ---
