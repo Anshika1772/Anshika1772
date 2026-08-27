@@ -190,7 +190,7 @@ Safety-focused navigation platform designed to provide smarter route experiences
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Anshika1772&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Anshika1772&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="165"
     alt="Anshika's GitHub Stats"
   />
@@ -204,7 +204,7 @@ Safety-focused navigation platform designed to provide smarter route experiences
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika1772&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anshika1772&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="150"
     alt="Top Languages"
   />
