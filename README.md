@@ -46,24 +46,60 @@ I’m currently focused on strengthening my skills in **AI/ML, Full Stack Develo
 
 
 ---
-
 ## ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 ArenaOS AI
 
-AI-powered intelligent stadium platform designed to bring multiple stadium experiences together through AI.
+AI-powered intelligent stadium platform bringing multiple stadium experiences together through AI.
+
+**Tech:** React • AI • Web Technologies
+
+[🔗 View Project](https://github.com/Anshika1772/ArenaOS-AI)
+
+</td>
+<td width="50%">
 
 ### 🕵️ Adrishya.AI
 
-An AI-focused application built with modern web technologies to solve a real-world problem.
+AI-focused application built to address a real-world problem with a modern web experience.
+
+**Tech:** React • TypeScript • Next.js • Supabase
+
+[🔗 View Project](https://github.com/Anshika1772)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🏙️ NagarNiti
 
-A civic-focused platform designed to connect citizens with useful information and services.
+Civic-focused platform designed to make useful information and services more accessible to citizens.
+
+**Tech:** React • Next.js • Supabase
+
+[🔗 View Project](https://github.com/Anshika1772)
+
+</td>
+<td width="50%">
 
 ### 🛡️ SheRoutes
 
-A safety-focused platform built to provide smarter and more useful experiences for users.
+Safety-focused platform built to provide smarter and more useful experiences for users.
+
+**Tech:** React • Django • Supabase
+
+[🔗 View Project](https://github.com/Anshika1772)
+
+</td>
+</tr>
+</table>
+
 
 ---
 
