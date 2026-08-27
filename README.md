@@ -80,7 +80,6 @@ Data Structures, Algorithms and continuous problem-solving practice.
 
 <p align="center">
 
-<!-- Languages & Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
@@ -103,7 +102,6 @@ Data Structures, Algorithms and continuous problem-solving practice.
 
 <br><br>
 
-<!-- Backend, Database & ML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
@@ -122,14 +120,13 @@ Data Structures, Algorithms and continuous problem-solving practice.
 
 <br><br>
 
-<!-- AI / GenAI -->
-<img src="https://cdn.simpleicons.org/openai/000000" width="50" height="50" alt="OpenAI"/>
+<img src="https://cdn.simpleicons.org/openai" width="50" height="50" alt="OpenAI"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="50" height="50" alt="LangChain"/>
+<img src="https://cdn.simpleicons.org/langchain" width="50" height="50" alt="LangChain"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="50" height="50" alt="Hugging Face"/>
+<img src="https://cdn.simpleicons.org/huggingface" width="50" height="50" alt="Hugging Face"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/chroma/3A3A3A" width="50" height="50" alt="ChromaDB"/>
+<img src="https://cdn.simpleicons.org/chroma" width="50" height="50" alt="ChromaDB"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
 &nbsp;&nbsp;
@@ -137,30 +134,27 @@ Data Structures, Algorithms and continuous problem-solving practice.
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="50" height="50" alt="Postman"/>
+<img src="https://cdn.simpleicons.org/postman" width="50" height="50" alt="Postman"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
 
 <br><br>
 
-<!-- Cloud, Deployment & Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50" height="50" alt="Vercel"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="50" height="50" alt="Netlify"/>
+<img src="https://cdn.simpleicons.org/netlify" width="50" height="50" alt="Netlify"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" alt="Render"/>
+<img src="https://cdn.simpleicons.org/render" width="50" height="50" alt="Render"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" height="50" alt="Streamlit"/>
+<img src="https://cdn.simpleicons.org/streamlit" width="50" height="50" alt="Streamlit"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud"/>
 
 </p>
-
-----
 
 ## 🚀 Featured Projects
 
