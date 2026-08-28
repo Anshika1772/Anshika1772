@@ -255,3 +255,14 @@ Safety-focused navigation platform designed to provide smarter route experiences
 <p align="center">
   <i>Build • Learn • Create.</i>
 </p>
+
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshika1772/Anshika1772/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anshika1772/Anshika1772/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anshika1772/Anshika1772/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
